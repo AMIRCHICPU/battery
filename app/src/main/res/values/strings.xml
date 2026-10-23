@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Volt Battery</string>
+    <string name="widget_description">Customizable, energy-efficient battery widget with 12 distinct styles.</string>
+</resources>

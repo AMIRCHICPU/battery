@@ -1,0 +1,6 @@
+{
+  "name": "Volt Battery",
+  "description": "Professional, highly customizable, low-battery-consumption Android battery widget suite with 12+ styles and Samsung One UI optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
